@@ -1,0 +1,14 @@
+@import 'src/scss/variables';
+
+.reports-modal {
+    .modal-content {
+        background: transparent !important;
+        border: 0 !important;
+
+        .modal-header {
+            background: $white;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            border-radius: 0.3rem;
+        }
+    }
+}
